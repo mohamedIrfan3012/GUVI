@@ -1,4 +1,4 @@
-m="hello \t"
+m="Hello"
 n=int(input())
-i=m*n
-print (i)
+for i in range(n):
+	print(m)
