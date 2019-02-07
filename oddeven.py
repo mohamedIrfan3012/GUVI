@@ -4,4 +4,4 @@ if (mk<0):
 elif(mk%2==0):
 	print("Even")
 else: 
-  print("Odd")
+   print("Odd")
