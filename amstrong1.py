@@ -1,8 +1,8 @@
-f,b=raw_input().split()
-f=int(f)
+g,b=raw_input().split()
+g=int(g)
 b=int(b)
  
-for n in range(f,b):
+for n in range(g,b):
    sum = 0
    temp = n
    while temp > 0:
